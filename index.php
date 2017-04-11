@@ -9,7 +9,7 @@
 	 * @param String APItoken from https://ahrefs.com/api/
 	 * @param Boolean $debug Debug message
 	 */
-	$Ahrefs = new AhrefsAPI('[YOURTOKEN]', $debug = true);
+	$Ahrefs = new AhrefsAPI('[6305f865a91f9bf3a043d0ecc9ab0021869615bc]', $debug = true);
 	
 	/**
 	 * Specify the aim of the request. The mode defines how the target will be interpreted. Example:
